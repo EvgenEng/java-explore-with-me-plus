@@ -10,5 +10,4 @@ public class OptionalParams {
 
     public static final int MinUserEmailSize = 6;
     public static final int MaxUserEmailSize = 254;
-
 }
