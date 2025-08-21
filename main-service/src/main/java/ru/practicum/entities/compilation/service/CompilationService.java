@@ -85,5 +85,4 @@ public class CompilationService {
 
         return CompilationMapper.toCompilationDto(compilationRepository.save(compilation));
     }
-
 }

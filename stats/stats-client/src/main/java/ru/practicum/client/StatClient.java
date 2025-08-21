@@ -48,5 +48,4 @@ public class StatClient extends BaseClient {
     public ResponseEntity<Object> save(EndpointHitDto endpointHit) {
         return post("/hit", endpointHit);
     }
-
 }
